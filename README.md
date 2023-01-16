@@ -1,2 +1,4 @@
 # Differentiation
-A calculator which differentiates using recursive N-ary trees. 
+A calculator which differentiates using recursion and N-ary trees. 
+
+
